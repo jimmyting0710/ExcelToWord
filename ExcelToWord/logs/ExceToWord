@@ -1,0 +1,8 @@
+2021-04-23 14:08:41.109  INFO 20400 --- [main] com.example.demo.ExcelToWordApplication  : Starting ExcelToWordApplication using Java 15.0.2 on CHSIF110046 with PID 20400 (C:\Users\si1204\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\ExcelToWord\target\classes started by si1204 in C:\Users\si1204\Documents\workspace-spring-tool-suite-4-4.10.0.RELEASE\ExcelToWord)
+2021-04-23 14:08:41.114  INFO 20400 --- [main] com.example.demo.ExcelToWordApplication  : No active profile set, falling back to default profiles: default
+2021-04-23 14:08:41.464  INFO 20400 --- [main] com.example.demo.ExcelToWordApplication  : Started ExcelToWordApplication in 0.631 seconds (JVM running for 1.252)
+2021-04-23 14:08:41.468  INFO 20400 --- [main] com.example.demo.ExcelToWord             : 設定檔位置: config.properties
+2021-04-23 14:08:41.469  INFO 20400 --- [main] com.example.demo.ExcelToWord             :  Excel資料夾位置:D:/si1204/Desktop/EtoW
+ Word範例檔位置:D:/si1204/Desktop/template/AD NAME_JCL NAME.docx
+ 輸出資料夾位置:D:/si1204/Desktop/單元測試個案/Batch
+2021-04-23 14:08:41.471  INFO 20400 --- [main] com.example.demo.ExcelToWord             : 需要抓取的欄位 [Sprint_No, 測試案例_L2, 系統別, AD, AD Description, JCL, JCL Description, Step_Name, Program_Name, DD_Name, DSN, OPEN_Mode, DISP_Initial]
